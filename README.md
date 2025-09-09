@@ -1,6 +1,6 @@
 # Atividade 10 – WEB I (HTML)
 
-Este projeto corresponde à **Atividade 9** da disciplina de **Desenvolvimento Web I**, desenvolvida inteiramente com **HTML5**.  
+Este projeto corresponde à **Atividade 10** da disciplina de **Desenvolvimento Web I**, desenvolvida inteiramente com **HTML5**.  
   
 
 ---
